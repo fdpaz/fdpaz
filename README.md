@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmsxazlra2t5bm5uZTVjYXA4aGdiZ3dwc3B5d3U1ZjVxZ3dmNWpqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif"/>
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmsxazlra2t5bm5uZTVjYXA4aGdiZ3dwc3B5d3U1ZjVxZ3dmNWpqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif"/>
 
 
 ###
@@ -47,7 +47,6 @@
   <a href="https://www.instagram.com/franco.paz.7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
 ###
