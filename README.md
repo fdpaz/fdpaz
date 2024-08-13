@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="200" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv"/>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmsxazlra2t5bm5uZTVjYXA4aGdiZ3dwc3B5d3U1ZjVxZ3dmNWpqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif"/>
 
 
 ###
